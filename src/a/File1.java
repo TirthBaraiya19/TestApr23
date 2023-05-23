@@ -4,8 +4,8 @@ public class File1 {
 
 	public static void main(String[] args) {
 		System.out.println("hey");
-		int a =10;
-		int b = 20;
-		System.out.println(a+b);	
+		int a = 20;
+		int b = 10;
+		System.out.println(a+b);		
 		}
 }
